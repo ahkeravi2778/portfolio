@@ -1,0 +1,17 @@
+.textBlue {
+color: #24BFFF ;
+}
+
+.heroBackground {
+ background-image: url("../public/assets/img/hero.svg");
+ background-size: cover;
+}
+.textYellow {
+    color:  rgb(255, 208, 0);
+}
+.textOrange {
+    color:  #F74354;
+}
+.textWhite {
+    color:  #ffffff;
+}
