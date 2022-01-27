@@ -7,9 +7,7 @@ import GitHubIcon from '@mui/icons-material/GitHub';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import Container from '@mui/material/Container';
 import Avatar from '@mui/material/Avatar';
-import Button from '@mui/material/Button';
 import MenuItem from '@mui/material/MenuItem';
-import  Grid from '@mui/material/Grid';
 import Link from '@mui/material/Link'
 import './Style.css'
 import LinkedIn  from '@mui/icons-material/LinkedIn';
