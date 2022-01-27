@@ -15,3 +15,27 @@ color: #24BFFF ;
 .textWhite {
     color:  #ffffff;
 }
+
+.darkBackground {
+    background-color: #042C55;
+}
+.aboutBackground {
+    background-image: url('../public/assets/img/about.svg') !important;
+    background-size: cover;
+}
+
+.titleText{
+    font-weight: 700 !important;
+    font-size: 25px !important;
+    color: #ffa705;
+    position: relative;
+    padding: 10px;
+}
+.titleText::before{
+    content: '';
+    width: 10%;
+    height: 6px;
+    position: absolute;
+    top: 38px;
+    background-color: #3d94ef;
+}
